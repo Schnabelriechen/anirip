@@ -15,7 +15,7 @@ import (
 
 	"github.com/robertkrimen/otto"
 	"github.com/Schnabelriechen/anirip/common/log"
-	"github.com/Schnabelriechen//httpclient"
+	"github.com/s32x/httpclient"
 )
 
 const (
