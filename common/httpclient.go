@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/robertkrimen/otto"
-	"sgithub.com/Schnabelriechen/anirip/common/log"
+	"github.com/Schnabelriechen/anirip/common/log"
 	"github.com/Schnabelriechen//httpclient"
 )
 
