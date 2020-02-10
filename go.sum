@@ -21,5 +21,5 @@ golang.org/x/sys v0.0.0-20181228144115-9a3f9b0469bb h1:pf3XwC90UUdNPYWZdFjhGBE7D
 golang.org/x/sys v0.0.0-20181228144115-9a3f9b0469bb/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 gopkg.in/sourcemap.v1 v1.0.5 h1:inv58fC9f9J3TK2Y2R1NPntXEn3/wjWHkonhIUODNTI=
 gopkg.in/sourcemap.v1 v1.0.5/go.mod h1:2RlvNNSMglmRrcvhfuzp4hQHwOtjxlbjX7UPY/GXb78=
-s32x.com/httpclient v0.0.0-20181215042144-1edd92c410ce h1:pEVFS6pBTawnKi3BYJ5TK8rp5p9fAKF32vnvE0+uH1M=
-s32x.com/httpclient v0.0.0-20181215042144-1edd92c410ce/go.mod h1:SLu4ZF1cRs0/kEx+hBVpoZO7FymxKiTO4Gb5INtt47A=
+github.com/s32x/httpclient v0.0.0-20181215042144-1edd92c410ce h1:pEVFS6pBTawnKi3BYJ5TK8rp5p9fAKF32vnvE0+uH1M=
+github.com/s32x/httpclient v0.0.0-20181215042144-1edd92c410ce/go.mod h1:SLu4ZF1cRs0/kEx+hBVpoZO7FymxKiTO4Gb5INtt47A=
