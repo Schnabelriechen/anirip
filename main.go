@@ -1,4 +1,4 @@
-package main /* import "s32x.com/anirip" */
+package main /* import "github.com/Schnabelriechen/anirip" */
 
 import (
 	"fmt"
@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/urfave/cli"
-	"s32x.com/anirip/common"
-	"s32x.com/anirip/common/log"
-	"s32x.com/anirip/crunchyroll"
+	"github.com/Schnabelriechen/anirip/common"
+	"github.com/Schnabelriechen/anirip/common/log"
+	"github.com/Schnabelriechen/anirip/crunchyroll"
 )
 
 var (
