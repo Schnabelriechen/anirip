@@ -1,4 +1,4 @@
-module s32x.com/anirip
+module github.com/Schnabelriechen/anirip
 
 go 1.13
 
@@ -13,5 +13,5 @@ require (
 	golang.org/x/net v0.0.0-20181220203305-927f97764cc3 // indirect
 	golang.org/x/sys v0.0.0-20181228144115-9a3f9b0469bb // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
-	s32x.com/httpclient v0.0.0-20181215042144-1edd92c410ce
+	github.com/s32x/httpclient v0.0.0-20181215042144-1edd92c410ce
 )
