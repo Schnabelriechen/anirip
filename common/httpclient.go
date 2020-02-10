@@ -1,4 +1,4 @@
-package common /* import "s32x.com/anirip/common" */
+package common /* import "github.com/Schnabelriechen/anirip/common" */
 
 import (
 	"fmt"
@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"github.com/robertkrimen/otto"
-	"s32x.com/anirip/common/log"
-	"s32x.com/httpclient"
+	"sgithub.com/Schnabelriechen/anirip/common/log"
+	"github.com/Schnabelriechen//httpclient"
 )
 
 const (
